@@ -5,6 +5,6 @@ were to be developed completely it would require a lot of updates. This is all t
 that the functionality of the app is not an issue whatsoever.
 
 The reason the app lacks certain updates or "flashy" stuff is that 
-I choose to focus on React.js and other projects.
+I choose to focus on learning React and other projects which I will be uploading soon.
 
 Thank you for making time to check out my repos !
