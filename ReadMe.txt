@@ -1,4 +1,4 @@
-Please open the demo folder to see the video which briefly shows how the app works.
+Please open the demo folder to see the videos which briefly shows how the app works.
 
 I would also like to add that this is a very simple version of this app and if the app 
 were to be developed completely it would require a lot of updates. This is all to show
